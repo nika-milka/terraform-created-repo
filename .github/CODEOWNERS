@@ -1,0 +1,9 @@
+# Владелец всего репозитория
+*           @nika-milka
+
+# Защищённые папки - требуют ревью от владельца
+/config/*   @nika-milka
+/secrets/*  @nika-milka
+
+# Исходный код
+/src/*      @nika-milka
